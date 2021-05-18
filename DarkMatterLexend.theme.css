@@ -1,0 +1,26 @@
+/**
+ * @name Dark Matter Lexend
+ * @author Tropical#8908, Hammock#3110, St. Owen of the Wow#6123
+ * @version 1.0.0
+ * @description A cold, dark & frosty theme. With the font replaced with the scientifically most readable font. (https://www.lexend.com/)
+ * @source https://github.com/DiscordStyles/DarkMatter/
+*/
+@import url('https://DiscordStyles.github.io/DarkMatter/src/base.css');
+*/
+@import url(https://github.com/ThomasJockin/lexend/tree/master/fonts/webfonts);
+
+/* Variables */
+:root {
+    --font-primary: 'Lexend', sans-serif;
+	--font-display: var(--font-primary) !important;
+    
+    user-name {font: Lexend 16px/30px Lexend, sans-serif;}
+     --avatar-size: 32px;'*/
+    --background-image: url('https://i.imgur.com/7SbtKvw.png');
+    --home-image: url('https://i.imgur.com/233d55Y.gif');
+    --background-solid: #161921;
+    --background-solid-dark: #101218;
+    --background-solid-darker: #0c0e12;
+    --accent: 37, 172, 232;
+    --accent-alt: 29, 101, 134;
+}
